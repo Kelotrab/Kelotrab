@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kelotrab
+- 👀 I’m interested in Game Dev/Making 3D graphics
+- 🌱 I’m currently learning Blender
